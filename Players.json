@@ -1,0 +1,904 @@
+{
+  results: [
+    {
+      Id: 571,
+      League: "chk",
+      Name: "Pennsylvania State University",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:53.207Z",
+      updatedAt: "2013-06-25T17:36:53.207Z",
+      objectId: "5ouG5mcwbc"
+    },
+    {
+      Id: 578,
+      League: "chk",
+      Name: "Sacred Heart University",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:53.401Z",
+      updatedAt: "2013-06-25T17:36:53.401Z",
+      objectId: "eICFZtkzrn"
+    },
+    {
+      Id: 579,
+      League: "chk",
+      Name: "St. Cloud State University",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:53.428Z",
+      updatedAt: "2013-06-25T17:36:53.428Z",
+      objectId: "MMA9RYcZZT"
+    },
+    {
+      Id: 580,
+      League: "chk",
+      Name: "St. Lawrence University",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:53.456Z",
+      updatedAt: "2013-06-25T17:36:53.456Z",
+      objectId: "0yhFlRtjid"
+    },
+    {
+      Id: 587,
+      League: "nhl",
+      Name: "New York Islanders",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:53.749Z",
+      updatedAt: "2013-06-25T17:36:53.749Z",
+      objectId: "4sKNSnI8Gn"
+    },
+    {
+      Id: 588,
+      League: "nhl",
+      Name: "New York Rangers",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:53.782Z",
+      updatedAt: "2013-06-25T17:36:53.782Z",
+      objectId: "45m72M3ikH"
+    },
+    {
+      Id: 593,
+      League: "nhl",
+      Name: "Montreal Canadiens",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:53.918Z",
+      updatedAt: "2013-06-25T17:36:53.918Z",
+      objectId: "81zCb38fp8"
+    },
+    {
+      Id: 594,
+      League: "nhl",
+      Name: "Ottawa Senators",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:53.945Z",
+      updatedAt: "2013-06-25T17:36:53.945Z",
+      objectId: "6kZNWcXtQl"
+    },
+    {
+      Id: 595,
+      League: "nhl",
+      Name: "Toronto Maple Leafs",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:53.972Z",
+      updatedAt: "2013-06-25T17:36:53.972Z",
+      objectId: "nEHHRBvgBX"
+    },
+    {
+      Id: 596,
+      League: "nhl",
+      Name: "Carolina Hurricanes",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.006Z",
+      updatedAt: "2013-06-25T17:36:54.006Z",
+      objectId: "kwRuUz0Bsj"
+    },
+    {
+      Id: 597,
+      League: "nhl",
+      Name: "Florida Panthers",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.035Z",
+      updatedAt: "2013-06-25T17:36:54.035Z",
+      objectId: "A9nILghkbM"
+    },
+    {
+      Id: 598,
+      League: "nhl",
+      Name: "Tampa Bay Lightning",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.062Z",
+      updatedAt: "2013-06-25T17:36:54.062Z",
+      objectId: "fmRwSmdPFM"
+    },
+    {
+      Id: 599,
+      League: "nhl",
+      Name: "Washington Capitals",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.089Z",
+      updatedAt: "2013-06-25T17:36:54.089Z",
+      objectId: "SyhzYwhNjU"
+    },
+    {
+      Id: 601,
+      League: "nhl",
+      Name: "Chicago Blackhawks",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.144Z",
+      updatedAt: "2013-06-25T17:36:54.144Z",
+      objectId: "xRmmboHtqf"
+    },
+    {
+      Id: 602,
+      League: "nhl",
+      Name: "Columbus Blue Jackets",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.171Z",
+      updatedAt: "2013-06-25T17:36:54.171Z",
+      objectId: "mpY7eqDllh"
+    },
+    {
+      Id: 603,
+      League: "nhl",
+      Name: "Detroit Red Wings",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.199Z",
+      updatedAt: "2013-06-25T17:36:54.199Z",
+      objectId: "2c4ingbBEd"
+    },
+    {
+      Id: 604,
+      League: "nhl",
+      Name: "Nashville Predators",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.226Z",
+      updatedAt: "2013-06-25T17:36:54.226Z",
+      objectId: "R9LRyXYzmA"
+    },
+    {
+      Id: 605,
+      League: "nhl",
+      Name: "St. Louis Blues",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.253Z",
+      updatedAt: "2013-06-25T17:36:54.253Z",
+      objectId: "s2GFUEByR7"
+    },
+    {
+      Id: 607,
+      League: "nhl",
+      Name: "Colorado Avalanche",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.307Z",
+      updatedAt: "2013-06-25T17:36:54.307Z",
+      objectId: "hpupioUpzW"
+    },
+    {
+      Id: 608,
+      League: "nhl",
+      Name: "Edmonton Oilers",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.334Z",
+      updatedAt: "2013-06-25T17:36:54.334Z",
+      objectId: "OrmyN8J8IV"
+    },
+    {
+      Id: 610,
+      League: "nhl",
+      Name: "Vancouver Canucks",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.389Z",
+      updatedAt: "2013-06-25T17:36:54.389Z",
+      objectId: "S0CZeVoZHL"
+    },
+    {
+      Id: 613,
+      League: "nhl",
+      Name: "Los Angeles Kings",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.474Z",
+      updatedAt: "2013-06-25T17:36:54.474Z",
+      objectId: "fDJHiDnSaN"
+    },
+    {
+      Id: 614,
+      League: "nhl",
+      Name: "Phoenix Coyotes",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.501Z",
+      updatedAt: "2013-06-25T17:36:54.501Z",
+      objectId: "D4mbR7dMyd"
+    },
+    {
+      Id: 619,
+      League: "kd",
+      Name: "4th Pick",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.640Z",
+      updatedAt: "2013-06-25T17:36:54.640Z",
+      objectId: "TvXkeOPOuy"
+    },
+    {
+      Id: 622,
+      League: "kd",
+      Name: "7th Pick",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.720Z",
+      updatedAt: "2013-06-25T17:36:54.720Z",
+      objectId: "v7THfidFrk"
+    },
+    {
+      Id: 623,
+      League: "kd",
+      Name: "8th Pick",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.748Z",
+      updatedAt: "2013-06-25T17:36:54.748Z",
+      objectId: "pXwRNrH21P"
+    },
+    {
+      Id: 624,
+      League: "kd",
+      Name: "9th Pick",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.775Z",
+      updatedAt: "2013-06-25T17:36:54.775Z",
+      objectId: "b1naMI4IIy"
+    },
+    {
+      Id: 625,
+      League: "kd",
+      Name: "10th Pick",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.803Z",
+      updatedAt: "2013-06-25T17:36:54.803Z",
+      objectId: "FscWzojylF"
+    },
+    {
+      Id: 626,
+      League: "kd",
+      Name: "11th Pick",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.831Z",
+      updatedAt: "2013-06-25T17:36:54.831Z",
+      objectId: "5E5maiIfTW"
+    },
+    {
+      Id: 627,
+      League: "kd",
+      Name: "12th Pick",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.858Z",
+      updatedAt: "2013-06-25T17:36:54.858Z",
+      objectId: "37M6OeJDxO"
+    },
+    {
+      Id: 628,
+      League: "kd",
+      Name: "13th Pick",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.885Z",
+      updatedAt: "2013-06-25T17:36:54.885Z",
+      objectId: "DH8CyllUEH"
+    },
+    {
+      Id: 629,
+      League: "kd",
+      Name: "14th Pick",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.912Z",
+      updatedAt: "2013-06-25T17:36:54.912Z",
+      objectId: "oWo0fqISAK"
+    },
+    {
+      Id: 630,
+      League: "kd",
+      Name: "15th Pick",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.939Z",
+      updatedAt: "2013-06-25T17:36:54.939Z",
+      objectId: "Okr36qfUBc"
+    },
+    {
+      Id: 631,
+      League: "kd",
+      Name: "16th Pick",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.966Z",
+      updatedAt: "2013-06-25T17:36:54.966Z",
+      objectId: "ip3Y56KTGf"
+    },
+    {
+      Id: 632,
+      League: "kd",
+      Name: "17th Pick",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:54.994Z",
+      updatedAt: "2013-06-25T17:36:54.994Z",
+      objectId: "F6UtvCqfFM"
+    },
+    {
+      Id: 633,
+      League: "kd",
+      Name: "18th Pick",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.021Z",
+      updatedAt: "2013-06-25T17:36:55.021Z",
+      objectId: "WpEa1MUFRd"
+    },
+    {
+      Id: 634,
+      League: "cl",
+      Name: "Bayern Munich",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.048Z",
+      updatedAt: "2013-06-25T17:36:55.048Z",
+      objectId: "QEgzKNCrx9"
+    },
+    {
+      Id: 635,
+      League: "cl",
+      Name: "Barcelona",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.075Z",
+      updatedAt: "2013-06-25T17:36:55.075Z",
+      objectId: "3Pdp08Fifg"
+    },
+    {
+      Id: 637,
+      League: "cl",
+      Name: "Real Madrid",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.129Z",
+      updatedAt: "2013-06-25T17:36:55.129Z",
+      objectId: "Gs0fLF1ckV"
+    },
+    {
+      Id: 638,
+      League: "cl",
+      Name: "Manchester United",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.156Z",
+      updatedAt: "2013-06-25T17:36:55.156Z",
+      objectId: "hVUdqYUDlA"
+    },
+    {
+      Id: 640,
+      League: "cl",
+      Name: "Benifica",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.212Z",
+      updatedAt: "2013-06-25T17:36:55.212Z",
+      objectId: "OgXEwXpuj0"
+    },
+    {
+      Id: 641,
+      League: "cl",
+      Name: "Atletico Madrid",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.239Z",
+      updatedAt: "2013-06-25T17:36:55.239Z",
+      objectId: "DzpNIlJmm4"
+    },
+    {
+      Id: 642,
+      League: "cl",
+      Name: "Shakhtar Donetsk",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.266Z",
+      updatedAt: "2013-06-25T17:36:55.266Z",
+      objectId: "zVUNsgwsfE"
+    },
+    {
+      Id: 643,
+      League: "cl",
+      Name: "Marseille",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.293Z",
+      updatedAt: "2013-06-25T17:36:55.293Z",
+      objectId: "UG0vBakZja"
+    },
+    {
+      Id: 644,
+      League: "cl",
+      Name: "CSKA Moscow",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.321Z",
+      updatedAt: "2013-06-25T17:36:55.321Z",
+      objectId: "csojSaDMqQ"
+    },
+    {
+      Id: 645,
+      League: "cl",
+      Name: "Paris Saint-Germain",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.348Z",
+      updatedAt: "2013-06-25T17:36:55.348Z",
+      objectId: "anB5K24VRx"
+    },
+    {
+      Id: 646,
+      League: "cl",
+      Name: "Juventus",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.435Z",
+      updatedAt: "2013-06-25T17:36:55.435Z",
+      objectId: "4KaCyA2WoZ"
+    },
+    {
+      Id: 647,
+      League: "cl",
+      Name: "Manchester City",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.462Z",
+      updatedAt: "2013-06-25T17:36:55.462Z",
+      objectId: "lDnyUDxWnG"
+    },
+    {
+      Id: 649,
+      League: "cl",
+      Name: "Borussia Dortmund",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.516Z",
+      updatedAt: "2013-06-25T17:36:55.516Z",
+      objectId: "oFW4aAV3ln"
+    },
+    {
+      Id: 650,
+      League: "cl",
+      Name: "Olympiacos",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.544Z",
+      updatedAt: "2013-06-25T17:36:55.544Z",
+      objectId: "JdmgOv6joC"
+    },
+    {
+      Id: 651,
+      League: "cl",
+      Name: "Galatasaray",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.571Z",
+      updatedAt: "2013-06-25T17:36:55.571Z",
+      objectId: "LdFebBUcbb"
+    },
+    {
+      Id: 652,
+      League: "cl",
+      Name: "Bayer Leverkusen",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.598Z",
+      updatedAt: "2013-06-25T17:36:55.598Z",
+      objectId: "wgsU4E3WfJ"
+    },
+    {
+      Id: 653,
+      League: "cl",
+      Name: "Copenhagen",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.629Z",
+      updatedAt: "2013-06-25T17:36:55.629Z",
+      objectId: "RUlvdfl4wY"
+    },
+    {
+      Id: 654,
+      League: "cl",
+      Name: "Napoli",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.656Z",
+      updatedAt: "2013-06-25T17:36:55.656Z",
+      objectId: "6RkLpS8O4W"
+    },
+    {
+      Id: 655,
+      League: "cl",
+      Name: "Anderlecht",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.683Z",
+      updatedAt: "2013-06-25T17:36:55.683Z",
+      objectId: "lVKRJJ8Fdt"
+    },
+    {
+      Id: 656,
+      League: "cl",
+      Name: "Arsenal",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.710Z",
+      updatedAt: "2013-06-25T17:36:55.710Z",
+      objectId: "mrJ3EhWGBs"
+    },
+    {
+      Id: 657,
+      League: "cl",
+      Name: "AC Milan",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.739Z",
+      updatedAt: "2013-06-25T17:36:55.739Z",
+      objectId: "QoWTNxVSks"
+    },
+    {
+      Id: 658,
+      League: "cl",
+      Name: "Schalke 04",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.766Z",
+      updatedAt: "2013-06-25T17:36:55.766Z",
+      objectId: "cdcoxu0wIP"
+    },
+    {
+      Id: 659,
+      League: "cl",
+      Name: "Real Sociedad",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.793Z",
+      updatedAt: "2013-06-25T17:36:55.793Z",
+      objectId: "jNiGqWyhR4"
+    },
+    {
+      Id: 660,
+      League: "cl",
+      Name: "Pacos de Ferreira",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.820Z",
+      updatedAt: "2013-06-25T17:36:55.820Z",
+      objectId: "hUgRAlqjJG"
+    },
+    {
+      Id: 661,
+      League: "cl",
+      Name: "Lyon",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.847Z",
+      updatedAt: "2013-06-25T17:36:55.847Z",
+      objectId: "KwQ4UqbMMg"
+    },
+    {
+      Id: 662,
+      League: "cl",
+      Name: "Zenit Saint Petersburg",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.874Z",
+      updatedAt: "2013-06-25T17:36:55.874Z",
+      objectId: "rD1iex8wiO"
+    },
+    {
+      Id: 663,
+      League: "cl",
+      Name: "PSV Eindhoven",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.902Z",
+      updatedAt: "2013-06-25T17:36:55.902Z",
+      objectId: "ykE6PPFrR2"
+    },
+    {
+      Id: 664,
+      League: "cl",
+      Name: "Metalist Kharkiv",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.928Z",
+      updatedAt: "2013-06-25T17:36:55.928Z",
+      objectId: "S9LWr0WhQe"
+    },
+    {
+      Id: 665,
+      League: "cl",
+      Name: "Fenerbache",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.955Z",
+      updatedAt: "2013-06-25T17:36:55.955Z",
+      objectId: "0B5E3ZypRz"
+    },
+    {
+      Id: 666,
+      League: "cl",
+      Name: "PAOK",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:55.982Z",
+      updatedAt: "2013-06-25T17:36:55.982Z",
+      objectId: "hPyXDivZTe"
+    },
+    {
+      Id: 667,
+      League: "cl",
+      Name: "Red Bull Salzburg",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:56.009Z",
+      updatedAt: "2013-06-25T17:36:56.009Z",
+      objectId: "pUNrq5szGL"
+    },
+    {
+      Id: 668,
+      League: "cl",
+      Name: "Nordsjaelland",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:56.037Z",
+      updatedAt: "2013-06-25T17:36:56.037Z",
+      objectId: "8WylmD3mtO"
+    },
+    {
+      Id: 669,
+      League: "cl",
+      Name: "Grasshopper",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:56.088Z",
+      updatedAt: "2013-06-25T17:36:56.088Z",
+      objectId: "uNFB03qRCK"
+    },
+    {
+      Id: 670,
+      League: "cl",
+      Name: "Zulte Waregern",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:56.118Z",
+      updatedAt: "2013-06-25T17:36:56.118Z",
+      objectId: "NoVVICiC6Y"
+    },
+    {
+      Id: 671,
+      League: "wc",
+      Name: "Albania",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:56.146Z",
+      updatedAt: "2013-06-25T17:36:56.146Z",
+      objectId: "H4yB6QfNTW"
+    },
+    {
+      Id: 672,
+      League: "wc",
+      Name: "Algeria",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:56.179Z",
+      updatedAt: "2013-06-25T17:36:56.179Z",
+      objectId: "5uuVrnCNhG"
+    },
+    {
+      Id: 673,
+      League: "wc",
+      Name: "Argentina",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:56.207Z",
+      updatedAt: "2013-06-25T17:36:56.207Z",
+      objectId: "P5nU0FiOyO"
+    },
+    {
+      Id: 674,
+      League: "wc",
+      Name: "Australia",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:56.235Z",
+      updatedAt: "2013-06-25T17:36:56.235Z",
+      objectId: "0s0rQtYJxj"
+    },
+    {
+      Id: 675,
+      League: "wc",
+      Name: "Austria",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:56.262Z",
+      updatedAt: "2013-06-25T17:36:56.262Z",
+      objectId: "eSM8epZ5hh"
+    },
+    {
+      Id: 676,
+      League: "wc",
+      Name: "Belgium",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:56.289Z",
+      updatedAt: "2013-06-25T17:36:56.289Z",
+      objectId: "xbZ3vpH8oK"
+    },
+    {
+      Id: 677,
+      League: "wc",
+      Name: "Bosnia-Herzegovina",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:56.323Z",
+      updatedAt: "2013-06-25T17:36:56.323Z",
+      objectId: "dCraHHvGDa"
+    },
+    {
+      Id: 678,
+      League: "wc",
+      Name: "Brazil",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:56.350Z",
+      updatedAt: "2013-06-25T17:36:56.350Z",
+      objectId: "yqRep7KeGg"
+    },
+    {
+      Id: 679,
+      League: "wc",
+      Name: "Bulgaria",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:56.397Z",
+      updatedAt: "2013-06-25T17:36:56.397Z",
+      objectId: "qnDTy6OUNc"
+    },
+    {
+      Id: 680,
+      League: "wc",
+      Name: "Burkina Faso",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:56.425Z",
+      updatedAt: "2013-06-25T17:36:56.425Z",
+      objectId: "2ifYJ2IY5E"
+    },
+    {
+      Id: 197,
+      League: "cbb",
+      Name: "Central Michigan",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:42.212Z",
+      updatedAt: "2013-06-25T17:36:42.212Z",
+      objectId: "412FFeGxdR"
+    },
+    {
+      Id: 199,
+      League: "cbb",
+      Name: "Charleston Southern",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:42.266Z",
+      updatedAt: "2013-06-25T17:36:42.266Z",
+      objectId: "cx4VxFgWmY"
+    },
+    {
+      Id: 205,
+      League: "cbb",
+      Name: "Cleveland State",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:42.431Z",
+      updatedAt: "2013-06-25T17:36:42.431Z",
+      objectId: "mGAgcaYd7B"
+    },
+    {
+      Id: 206,
+      League: "cbb",
+      Name: "Coastal Carolina",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:42.459Z",
+      updatedAt: "2013-06-25T17:36:42.459Z",
+      objectId: "R0GqCGM6PF"
+    },
+    {
+      Id: 207,
+      League: "cbb",
+      Name: "Colgate",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:42.486Z",
+      updatedAt: "2013-06-25T17:36:42.486Z",
+      objectId: "gukmpQFKZV"
+    },
+    {
+      Id: 208,
+      League: "cbb",
+      Name: "Colorado",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:42.513Z",
+      updatedAt: "2013-06-25T17:36:42.513Z",
+      objectId: "CNhUg6T6uV"
+    },
+    {
+      Id: 209,
+      League: "cbb",
+      Name: "Colorado State",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:42.541Z",
+      updatedAt: "2013-06-25T17:36:42.541Z",
+      objectId: "7MPIqZFLdk"
+    },
+    {
+      Id: 210,
+      League: "cbb",
+      Name: "Columbia",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:42.576Z",
+      updatedAt: "2013-06-25T17:36:42.576Z",
+      objectId: "HOXJd6X7mW"
+    },
+    {
+      Id: 211,
+      League: "cbb",
+      Name: "Connecticut",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:42.603Z",
+      updatedAt: "2013-06-25T17:36:42.603Z",
+      objectId: "JZ3XNhxv3R"
+    },
+    {
+      Id: 212,
+      League: "cbb",
+      Name: "Coppin State",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:42.631Z",
+      updatedAt: "2013-06-25T17:36:42.631Z",
+      objectId: "xUaz8dEGNe"
+    },
+    {
+      Id: 213,
+      League: "cbb",
+      Name: "Cornell",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:42.658Z",
+      updatedAt: "2013-06-25T17:36:42.658Z",
+      objectId: "pOum6n5hPj"
+    },
+    {
+      Id: 214,
+      League: "cbb",
+      Name: "Creighton",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:42.692Z",
+      updatedAt: "2013-06-25T17:36:42.692Z",
+      objectId: "SDwsKBSyeT"
+    },
+    {
+      Id: 215,
+      League: "cbb",
+      Name: "Dartmouth",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:42.719Z",
+      updatedAt: "2013-06-25T17:36:42.719Z",
+      objectId: "uizAIxIfMv"
+    },
+    {
+      Id: 216,
+      League: "cbb",
+      Name: "Davidson",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:42.748Z",
+      updatedAt: "2013-06-25T17:36:42.748Z",
+      objectId: "hK9c04Y36Q"
+    },
+    {
+      Id: 218,
+      League: "cbb",
+      Name: "Delaware",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:42.807Z",
+      updatedAt: "2013-06-25T17:36:42.807Z",
+      objectId: "VL0sYqYUir"
+    },
+    {
+      Id: 219,
+      League: "cbb",
+      Name: "Delaware State",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:42.834Z",
+      updatedAt: "2013-06-25T17:36:42.834Z",
+      objectId: "pq5LBFxcQN"
+    },
+    {
+      Id: 222,
+      League: "cbb",
+      Name: "Detroit",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:42.920Z",
+      updatedAt: "2013-06-25T17:36:42.920Z",
+      objectId: "IVELE5NLXE"
+    },
+    {
+      Id: 226,
+      League: "cbb",
+      Name: "Duquesne",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:43.030Z",
+      updatedAt: "2013-06-25T17:36:43.030Z",
+      objectId: "MAbx7UhnXT"
+    },
+    {
+      Id: 227,
+      League: "cbb",
+      Name: "East Carolina",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:43.057Z",
+      updatedAt: "2013-06-25T17:36:43.057Z",
+      objectId: "zUB6QotjG6"
+    },
+    {
+      Id: 228,
+      League: "cbb",
+      Name: "East Tennessee State",
+      onTeam: '',
+      createdAt: "2013-06-25T17:36:43.084Z",
+      updatedAt: "2013-06-25T17:36:43.084Z",
+      objectId: "pSWNcrbZgS"
+    }
+  ]
+}

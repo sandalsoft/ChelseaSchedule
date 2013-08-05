@@ -1,0 +1,31 @@
+{
+  results: [
+    {
+      name: "Mara Power",
+      ownerEmail: "brianmara@hotmail.com",
+      ownerName: "Mara & Swin",
+      createdAt: "2013-06-25T17:58:49.031Z",
+      updatedAt: "2013-06-25T17:59:07.540Z",
+      objectId: "Ty7V9DESkW"
+    },
+    {
+      hasPlayers: [
+        "62HZcRdLtj",
+        "mFXpxlcM2y",
+        "bVRR9Mo8t4"
+      ],
+      name: "Holybooters",
+      ownerEmail: "holyboot@gmail.com",
+      ownerName: "Eric Nelson",
+      createdAt: "2013-06-25T17:58:24.192Z",
+      updatedAt: "2013-06-26T12:23:59.270Z",
+      objectId: "tlnaAFE0at"
+    },
+    {
+      param: "Holybooters",
+      createdAt: "2013-06-26T15:15:40.839Z",
+      updatedAt: "2013-06-26T15:15:40.839Z",
+      objectId: "LqqbsAOzBZ"
+    }
+  ]
+}
